@@ -205,3 +205,6 @@ http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 https://livetv-app.mylifeisgood.net.ru/channels/radiozvezda.m3u8
 #EXTINF:-1 group-title="Радио",Наше радио
 http://nashe1.hostingradio.ru:80/nashe-256
+
+#EXTINF:-1 group-title="Кино БезГраниц" tvg-id="vip-megahit" tvg-logo="http://1lot.tv/ch/17103.png" ,Viju+ Megahit HD
+http://s.only4.tv/17103/index.m3u8?token=YXRpZCkjfo
