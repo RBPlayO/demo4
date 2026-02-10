@@ -1,6 +1,12 @@
 #EXTM3U url-tvg="http://1lot.tv/epg/epg.xml"
 #EXTINF:-1 group-title="Инфоканал" , Инфоканал 1 RB Play
 https://www.dropbox.com/scl/fi/5bw4ta1nbf2im0pus9j0n/4.mp4?rlkey=5sy76rbbs8u17jqwlxiy9nt4p&st=6r3yq8cc&dl=1
+#EXTINF:-1 group-title="Развлечение" ,History HD
+https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Discovery Channel  HD
+https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Animal Planet HD
+https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,24 KZ HD
 https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,Astana TV
